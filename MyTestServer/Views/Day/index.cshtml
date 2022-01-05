@@ -1,0 +1,27 @@
+@model System.Collections.Generic.IEnumerable<MyTestServer.Models.Day>
+
+<h1>Расписание дня</h1>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem =>item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem =>item.Description)
+            </td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,82 @@
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\appsettings.json
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.exe
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.deps.json
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.runtimeconfig.json
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.runtimeconfig.dev.json
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.dll
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\ref\MyTestServer.dll
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.pdb
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.Views.dll
+C:\Users\Вика\MyTestServer\bin\Debug\net5.0\MyTestServer.Views.pdb
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.csprojAssemblyReference.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.AssemblyInfoInputs.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.AssemblyInfo.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.csproj.CoreCompileInputs.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorAssemblyInfo.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorAssemblyInfo.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\staticwebassets\MyTestServer.StaticWebAssets.Manifest.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\staticwebassets\MyTestServer.StaticWebAssets.xml
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\scopedcss\bundle\MyTestServer.styles.css
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.TagHelpers.input.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.TagHelpers.output.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorCoreGenerate.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorTargetAssemblyInfo.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorTargetAssemblyInfo.cs
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.Views.pdb
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.dll
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\ref\MyTestServer.dll
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.pdb
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.genruntimeconfig.cache
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\MyTestServer.csproj.CopyComplete
+C:\Users\Вика\MyTestServer\obj\Debug\net5.0\Razor\Views\Day\index.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\appsettings.Development.json
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\appsettings.json
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.exe
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.deps.json
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.runtimeconfig.json
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.runtimeconfig.dev.json
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.dll
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\ref\MyTestServer.dll
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.pdb
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.Views.dll
+D:\Диск (С)\Vue Prjct\MyTestServer\bin\Debug\net5.0\MyTestServer.Views.pdb
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.csprojAssemblyReference.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.AssemblyInfoInputs.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.AssemblyInfo.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.csproj.CoreCompileInputs.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorAssemblyInfo.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorAssemblyInfo.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\staticwebassets\MyTestServer.StaticWebAssets.Manifest.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\staticwebassets\MyTestServer.StaticWebAssets.xml
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\scopedcss\bundle\MyTestServer.styles.css
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.TagHelpers.input.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.TagHelpers.output.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorCoreGenerate.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Day\index.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorTargetAssemblyInfo.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.RazorTargetAssemblyInfo.cs
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.Views.pdb
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.dll
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\ref\MyTestServer.dll
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.pdb
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.genruntimeconfig.cache
+D:\Диск (С)\Vue Prjct\MyTestServer\obj\Debug\net5.0\MyTestServer.csproj.CopyComplete
